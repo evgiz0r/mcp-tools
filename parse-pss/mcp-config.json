@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "pss-parser": {
+      "command": "python",
+      "args": [
+        "-m",
+        "src.mcp_server"
+      ],
+      "cwd": "${workspaceFolder}/parse-pss",
+      "env": {
+        "PYTHONUNBUFFERED": "1"
+      }
+    }
+  }
+}
