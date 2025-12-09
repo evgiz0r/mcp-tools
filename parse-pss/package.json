@@ -1,0 +1,10 @@
+{
+  "name": "parse-pss",
+  "version": "0.1.0",
+  "description": "MCP tool for parsing PSS (Protocol State System) code",
+  "author": "evgiz0r",
+  "license": "MIT",
+  "python": {
+    "version": "3.8+"
+  }
+}
